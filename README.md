@@ -6,7 +6,7 @@
 
 Using SDK Tools
 1. Android SDK Build-Tools
-2. Andoird SDK Platform-Tools (30.4.0
+2. Andoird SDK Platform-Tools (30.4.0)
 3. Google Play services (49)
 4. Intel x86 Emulator Accelerator(HAXM installer) (7.5.6
 
