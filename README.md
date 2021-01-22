@@ -12,4 +12,4 @@ Using SDK Tools
 4. Intel x86 Emulator Accelerator(HAXM installer) (7.5.6
 
 Using Amulator API Version
-Nexus 4 API 29(Andoird 10.0 Google APIs)
+-Nexus 4 API 29(Andoird 10.0 Google APIs)
